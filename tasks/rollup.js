@@ -94,7 +94,6 @@ module.exports = function(grunt) {
             id: options.moduleId,
             define: options.moduleDefine
           },
-          moduleId: options.moduleId,
           name: options.moduleName,
           globals: options.globals,
           indent: options.indent,
